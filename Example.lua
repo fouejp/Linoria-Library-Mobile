@@ -1,9 +1,9 @@
 -- New example script written by wally
 -- You can suggest changes with a pull request or something
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/Linoria-Library-Mobile/refs/heads/main/Gui%20Lib%20%5BLibrary%5D"))()
-local ThemeManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/Linoria-Library-Mobile/refs/heads/main/Gui%20Lib%20%5BThemeManager%5D"))()
-local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/Linoria-Library-Mobile/refs/heads/main/Gui%20Lib%20%5BSaveManager%5D"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/fouejp/Linoria-Library-Mobile/refs/heads/main/Gui%20Lib%20%5BLibrary%5D"))()
+local ThemeManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/fouejp/Linoria-Library-Mobile/refs/heads/main/Gui%20Lib%20%5BThemeManager%5D"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/fouejp/Linoria-Library-Mobile/refs/heads/main/Gui%20Lib%20%5BSaveManager%5D"))()
 
 local Window = Library:CreateWindow({
     -- Set Center to true if you want the menu to appear in the center
